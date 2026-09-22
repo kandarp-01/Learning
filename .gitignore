@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 ML/Project6/*.csv
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Project6 dataset
+ML/Project6/*.csv
